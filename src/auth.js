@@ -1,7 +1,3 @@
-
-//Token
-//ya29.a0AXooCgtS4vznxabiaCfg2p7jBdkaFcn8efS6Vhw65PlS6olcxPD2yfOvz0wAu-btWuwJwmRB0KcvfspL6mBsxFmbHgjNFqEypeHuZFt35IJ5XW1qk1juEuusDldajY-i2g52yZIs3CoDnm99wcs16CiQA6wrTIRwVz-AaCgYKAa0SARASFQHGX2Miz03HtlqBEu1mdvTyqJCtjg0171
-
 const express = require('express');
 const passport = require('passport');
 const GoogleStrategy = require('passport-google-oauth20').Strategy;
